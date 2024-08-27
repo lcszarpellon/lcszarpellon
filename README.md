@@ -11,6 +11,11 @@ I’m constantly exploring AI and innovative analytics, currently enhancing my s
 When not immersed in data, I’m hiking through Brazil’s beautiful landscapes. 🥾🚶‍♂️
 <br>
 Feel free to explore my repository and don't forget to check my **Portfolio page** where you can find ***my Power BI projects***.
+
+[https://lcszarpellon.github.io/lucas_zarpellon-Portfolio/](https://lcszarpellon.github.io/lucas_zarpellon-Portfolio/)
+
+Power BI projects: [https://www.novypro.com/profile_about/lucas-zarpellon](https://www.novypro.com/profile_about/lucas-zarpellon)
+
 <!---
 lcszarpellon/lcszarpellon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
